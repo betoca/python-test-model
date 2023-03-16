@@ -1,0 +1,11 @@
+version: 1
+ai_component: false
+details:
+  - entry:
+      name: sample name
+      id: 123
+      description: |
+        This is The
+        Long description
+        of our model
+        with the above name
